@@ -14,7 +14,7 @@ author: Cormac Kinsella
 
 navbar-links:
   About: "aboutme"
-  Code:
+  Code Resources:
     - Learn Python: "https://github.com/CormacKinsella/python-data-science"
     - Solve virus hosts: "https://github.com/CormacKinsella/Metagenomic-virus-host-prediction"
     - Find virus fossils: "https://github.com/CormacKinsella/HGT_finder"
