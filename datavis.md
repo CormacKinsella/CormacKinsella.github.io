@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data visualisation
+title: Data vis
 ---
 
 Under construction!
