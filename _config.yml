@@ -14,11 +14,11 @@ author: Cormac Kinsella
 
 navbar-links:
   About: "aboutme"
+  Data Vis: "datavis"
   Code Resources:
     - Learn Python: "https://github.com/CormacKinsella/python-data-science"
     - Solve virus hosts: "https://github.com/CormacKinsella/Metagenomic-virus-host-prediction"
     - Find virus fossils: "https://github.com/CormacKinsella/HGT_finder"
-  Data Vis: "datavis"
   Pubs & Media:
     - Google Scholar Profile: "https://scholar.google.co.uk/citations?user=Bp9UaAcAAAAJ&hl=en&oi=ao"
     - The Scientist, 2022: "https://www.the-scientist.com/news-opinion/recently-discovered-virus-family-infects-a-human-oral-amoeba-70806"
