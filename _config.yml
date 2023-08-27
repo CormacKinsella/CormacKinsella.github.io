@@ -13,13 +13,13 @@ author: Cormac Kinsella
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Code Resources:
+  About: "aboutme"
+  Code:
     - Learn Python: "https://github.com/CormacKinsella/python-data-science"
     - Solve virus hosts: "https://github.com/CormacKinsella/Metagenomic-virus-host-prediction"
     - Find virus fossils: "https://github.com/CormacKinsella/HGT_finder"
-  Data Visualisation: "datavis"
-  Publications & Media:
+  Data Vis: "datavis"
+  Pubs & Media:
     - Google Scholar Profile: "https://scholar.google.co.uk/citations?user=Bp9UaAcAAAAJ&hl=en&oi=ao"
     - The Scientist, 2022: "https://www.the-scientist.com/news-opinion/recently-discovered-virus-family-infects-a-human-oral-amoeba-70806"
     - Scientific American, 2019: "https://www.scientificamerican.com/article/solving-the-mystery-of-songbird-diversity"
@@ -99,7 +99,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Cormac,Kinsella,bioinformatics,bioinformatician,computational,biologist,evolutionary,biology,virology,virus,genomics,eukaryote,python,bash,nextflow,jupyter,R"
 
 ######################################
 # --- Colours / background image --- #
@@ -221,7 +221,7 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%F"
 
 # Facebook App ID
 #fb_app_id: ""
@@ -231,7 +231,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Stockholm"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
