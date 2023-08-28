@@ -13,6 +13,7 @@ author: Cormac Kinsella
 ###############################################
 
 navbar-links:
+  Home: ""
   About: "aboutme"
   Data Vis: "datavis"
   Code Resources:
