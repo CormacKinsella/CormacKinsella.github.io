@@ -11,7 +11,7 @@ The time has finally come, my PhD thesis is finished and printed! The electronic
 
 I owe a huge thanks to Dr. Lia van der Hoek, my PhD promoter. Lia won EU funding for the [**HONOURs Marie Skłodowska-Curie Action training network**](https://www.honours.eu), providing PhD positions for 15 early stage researchers across Europe. She entrusted one of those to me, and we've had a great time over the years since.
 
-The aspect I appreciate most about the resulting thesis is that our studies into ssDNA viruses and their hosts came about by interesting chance discoveries, then actively pursued - neither of us expected the research route that would be taken!
+The aspect I appreciate most about the resulting thesis is that our studies into ssDNA viruses and their hosts came about by pursuing interesting chance discoveries - neither of us originally expected the research to go that way!
 
 A few highlights:
 
