@@ -3,6 +3,7 @@ layout: post
 title: PhD thesis published
 subtitle: Journey into a world of hidden viruses!
 thumbnail-img: /assets/img/thesis-cover.png
+cover-img: /assets/img/thesis-banner.png
 share-img: /assets/img/thesis-cover.png
 tags: [PhD, done]
 ---
