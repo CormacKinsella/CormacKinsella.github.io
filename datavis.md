@@ -11,7 +11,7 @@ subtitle: Examples from prior studies
 
 #### <center> Circos, from [Nature Communications, 2020](https://www.nature.com/articles/s41467-020-18474-w) </center>
 
-<center> Circos, from <a href="https://www.nature.com/articles/s41467-020-18474-w">Nature Communications, 2020</a> </center>
+<center> <b> Circos, from <a href="https://www.nature.com/articles/s41467-020-18474-w">Nature Communications, 2020</a> </b> </center>
 
 ![The image shows alignments between multiple contigs, visualised with the program Circos](https://CormacKinsella.github.io/assets/img/data_vis-treebeard-circos.png "Circos for visualising complex features and multiple alignments")
 
