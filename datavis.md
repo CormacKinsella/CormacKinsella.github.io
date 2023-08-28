@@ -4,7 +4,7 @@ title: Data vis
 subtitle: Examples from prior studies
 ---
 
-<br/>
+<br/><br/>
 
 #### Circos, from [Nature Communications, 2020](https://www.nature.com/articles/s41467-020-18474-w)
 
