@@ -6,7 +6,7 @@
 title: Cormac Kinsella
 
 # Your name to show in the footer
-author: Cormac Kinsella
+# author: Cormac Kinsella # not needed along with the website address
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/side.png"
+avatar: "/assets/img/banner-image.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
