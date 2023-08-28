@@ -6,11 +6,12 @@ subtitle: Examples of data v
 
 #### Circos, from [Nature Communications, 2020](https://www.nature.com/articles/s41467-020-18474-w)
 
-![The image shows alignments between multiple contigs, visualised with the program Circos](./assets/img/data_vis-treebeard-circos.png "Circos for visualising complex features and multiple alignments")
+![The image shows alignments between multiple contigs, visualised with the program Circos](https://CormacKinsella.github.io/assets/img/data_vis-treebeard-circos.png "Circos for visualising complex features and multiple alignments")
 
 ```
 Visualising complex features and "all versus all" alignments. Here, showing sequence identity between virus genes and endogenous viral element regions in parasite genomes.
 ```
+
 #### Alphafold & Mol*, from [PNAS, 2023](https://www.pnas.org/doi/10.1073/pnas.2303844120)
 
 ![The image shows protein structures, predicted by Alphafold, visualised with the program Mol*](./assets/img/data_vis-PNAS_alphafold.png "Alphafold & Mol* for protein/domain structure analysis")
