@@ -6,7 +6,7 @@
 title: Cormac Kinsella
 
 # Your name to show in the footer
-# author: Cormac Kinsella # not needed along with the website address
+author: Cormac Kinsella
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,6 +21,7 @@ navbar-links:
     - Find virus fossils: "https://github.com/CormacKinsella/HGT_finder"
   Pubs & Media:
     - Google Scholar Profile: "https://scholar.google.co.uk/citations?user=Bp9UaAcAAAAJ&hl=en&oi=ao"
+    - My PhD thesis: "https://hdl.handle.net/11245.1/1aceb7bf-ccb3-49ef-8ce5-31db8358545a"
     - The Scientist, 2022: "https://www.the-scientist.com/news-opinion/recently-discovered-virus-family-infects-a-human-oral-amoeba-70806"
     - Scientific American, 2019: "https://www.scientificamerican.com/article/solving-the-mystery-of-songbird-diversity"
     - New Scientist, 2019: "https://www.newscientist.com/article/2201146-weird-chromosome-may-have-spurred-evolution-of-thousands-of-songbirds"
