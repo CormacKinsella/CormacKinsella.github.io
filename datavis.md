@@ -22,7 +22,7 @@ subtitle: Examples from prior studies
 
 <br/>
 
-#### Gene ontology enrichment, from [Nature Communications, 2019](https://www.nature.com/articles/s41467-019-13427-4)
+<center> <b> Gene ontology enrichment, from <a href="https://www.nature.com/articles/s41467-019-13427-4">Nature Communications, 2019</a> </b> </center>
 
 ![Alt text](https://CormacKinsella.github.io/assets/img/data_vis-GRC-GO-enrichment.png "Gene ontology enrichment on the zebra finch germline-restricted chromosome")
 
@@ -30,7 +30,7 @@ subtitle: Examples from prior studies
 
 <br/>
 
-#### Phylogeny, from MSc thesis (Uppsala University)
+<center> <b>  Phylogeny, from MSc thesis (Uppsala University) </b> </center>
 
 ![Alt text](https://CormacKinsella.github.io/assets/img/data_vis-UU-thesis-GRC_27L4.jpg "Divergent paralogs within a single zebra finch individual")
 
@@ -38,7 +38,7 @@ subtitle: Examples from prior studies
 
 <br/>
 
-#### Genome synteny, from [PNAS, 2023](https://www.pnas.org/doi/10.1073/pnas.2303844120)
+<center> <b>  Genome synteny, from <a href="https://www.pnas.org/doi/10.1073/pnas.2303844120">PNAS, 2023</a> </b> </center>
 
 ![Alt text](https://CormacKinsella.github.io/assets/img/data_vis-Draup-genome-synteny.png "text")
 
