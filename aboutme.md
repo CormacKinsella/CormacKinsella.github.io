@@ -30,9 +30,12 @@ title: About
 - Dinosaur evolution
 
 **Educational history in a nutshell:**
-- PhD in Computational Virology | 2023 | University of Amsterdam
-- Double MSc in Evolutionary Biology, Distinction | 2017 | Uppsala University & LMU Munich, with thesis project at Harvard University
-- BSc in Zoology, First Class Hons. | 2014 | Cardiff University with a professional training year at the University of Bristol
+
+| Degree | When | Where |
+| :----: | :-: | :-: |
+| PhD in Computational Virology | 2023 | University of Amsterdam |
+| Double MSc in Evolutionary Biology [*Distinction*] | 2017 | Uppsala University & LMU Munich, with thesis project at Harvard University |
+| BSc in Zoology [*First Class Hons.*] | 2014 | Cardiff University with a professional training year at the University of Bristol |
 
 **When I'm not doing science, I am:**
 
