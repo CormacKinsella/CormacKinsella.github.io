@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualisation of data
+title: Data Visualisation
 subtitle: Examples from prior studies
 ---
 
@@ -75,5 +75,21 @@ subtitle: Examples from prior studies
 ![The image shows proteins clustered with the CLANS software package](https://CormacKinsella.github.io/assets/img/data_vis-protein_clusters.png "Protein clustering with CLANS")
 
 >Rapid insight into protein sequence relationships can be gained using clustering tools, such as the CLANS package. Here, virus capsid proteins found in both host genomes (as endogenous elements) and exogenous viruses, were analysed together to visualise their approximate relationships.
+
+<br/>
+
+<center> <b> Site-level selection analysis, from <a href="https://www.pnas.org/doi/10.1073/pnas.2303844120">PNAS, 2023</a> </b> </center>
+
+![The image shows site-level selection on a virus gene](https://CormacKinsella.github.io/assets/img/data_vis-site_specific_selection.png "Site-level selection analysis")
+
+>Understanding if a protein coding gene is functional or not has several steps. One line of evidence can be provided by tests for selection: is a protein sequence being maintained during evolution or not? Here, a horizontally transferred viral gene was subjected to selection analysis. It was found to be strongly conserved, especially across the protein functional domain (a helicase). We inferred this as evidence of likely functionality within the new genomic context.
+
+<br/>
+
+<center> <b> Protein motif visualisation, from <a href="https://www.pnas.org/doi/10.1073/pnas.2303844120">PNAS, 2023</a> </b> </center>
+
+![The image shows protein motif conservation across viral genes](https://CormacKinsella.github.io/assets/img/data_vis-protein_motifs.png "Protein motif analysis with WebLogo")
+
+>Additional insight into the activity of proteins can be gained by detailed examination of their functional motifs. Here, homologous viral genes were analysed using multiple sequence alignment and the tool WebLogo. Key catalytic motifs found in the endonuclease domain were inactivated in many of the so-called "*apvRep*" genes, suggesting they have lost this function.
 
 <br/>
