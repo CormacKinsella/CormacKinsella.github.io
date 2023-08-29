@@ -10,15 +10,15 @@ subtitle: Examples from prior studies
 
 ![The image shows alignments between multiple contigs, visualised with the program Circos](https://CormacKinsella.github.io/assets/img/data_vis-treebeard-circos.png "Circos for visualising complex features and multiple alignments")
 
->Visualising complex features and multiple alignments. Here, showing sequence identity between virus genes and endogenous viral element regions in parasite genomes.
+>Visualising complex genomic features and multiple alignments. Here, showing sequence identity between virus genes and endogenous viral element regions in parasite genomes. Also shown is read coverage of some endogenous viruses by AGO2-2-associated small RNAs, part of the RNAi silencing system, a possible example of protist antiviral defence.
 
 <br/>
 
-<center> <b> Alphafold & Mol*, from <a href="https://www.pnas.org/doi/10.1073/pnas.2303844120">PNAS, 2023</a> </b> </center>
+<center> <b> Alphafold & Mol*, adapted from <a href="https://www.pnas.org/doi/10.1073/pnas.2303844120">PNAS, 2023</a> </b> </center>
 
 ![The image shows protein structures, predicted by Alphafold, visualised with the program Mol*](https://CormacKinsella.github.io/assets/img/data_vis-PNAS_alphafold.png "Alphafold protein/domain structure analysis")
 
->Alphafold in combination with Mol* for protein domain analysis. Here, exploring predicted monomer and multimer structure of proteins involved with single-stranded DNA replication.
+>Alphafold in combination with Mol* for protein structure and domain analysis. Here, both predicted monomer and multimer structures of proteins involved with single-stranded DNA replication were explored.
 
 <br/>
 
@@ -34,7 +34,7 @@ subtitle: Examples from prior studies
 
 ![The image shows a tanglegram between two virus genes, uncovering recombination between two virus families that infect the same host](https://CormacKinsella.github.io/assets/img/data_vis-tanglegram.png "Recombination of genetic modules between two virus families (Naryaviridae & Nenyaviridae) infecting the same hosts")
 
->A tanglegram can reveal patterns of either concordant or discordant evolutionary history between two subjects. Here, connections link genes found on the same virus genome. The overall pattern reveals extensive and reciprocal recombination of genetic modules between two virus families (*Naryaviridae* & *Nenyaviridae*). Given these families had unknown hosts, we argued their ability to recombine supported a shared host, which we showed was *Entamoeba*.
+>A tanglegram can reveal patterns of either concordant or discordant evolutionary history between two subjects (genes, species, etc.). Here, connections link genes found on the same virus genome. The overall pattern reveals extensive and reciprocal recombination of genetic modules between two virus families (*Naryaviridae* & *Nenyaviridae*). Given these families had unknown hosts, we argued their ability to recombine supported a shared host, which we showed was *Entamoeba*.
 
 <br/>
 
@@ -58,7 +58,7 @@ subtitle: Examples from prior studies
 
 ![The image shows structural variation found in one tissue of an individual zebra finch, but not another](https://CormacKinsella.github.io/assets/img/data_vis-GRC-structural-variation.png "Structural variation uncovered by 10X Genomics linked-reads")
 
->10X Genomics linked-reads came from a now discontinued pseudo long-read library preparation method. Barcode enrichment signified reads derived from physically close DNA regions. Here, the same genomic region is examined in two samples. In the left panel we see a library prepared from zebra finch liver (somatic cells), and on the right a library prepared from testis (including germline cells). Reads that map to chromosomes 1 and 3 are physically close in the testis but not the liver, supporting the existence of a structural variant (with respect to the somatic reference assembly). In fact this pattern comes from the "hybrid chromosome" known as the germline-restricted chromosome, which includes regions derived from all autosomes.
+>10X Genomics linked-reads derive from a (now discontinued) pseudo long-read library preparation method. Barcode enrichment signified reads derived from physically close DNA regions. Here, the same genomic region is examined in two samples. In the left panel we see a library prepared from zebra finch liver (somatic cells), and on the right a library prepared from testis (including germline cells). Reads that map to chromosomes 1 and 3 are physically close in the testis but not the liver, supporting the existence of a tissue-specific structural variant (with respect to the somatic reference assembly). In fact this pattern comes from a "hybrid chromosome" known as the germline-restricted chromosome, which itself includes regions derived from all autosomes.
 
 <br/>
 
@@ -66,7 +66,7 @@ subtitle: Examples from prior studies
 
 ![The image shows patterns of modular recombination within the family Redondoviridae](https://CormacKinsella.github.io/assets/img/data_vis-vir_evo_modular_recomb.png "Recombination hotspots across redondovirus genomes")
 
->Patterns of recombination are useful to know for a variety of questions. Here, RDP4 was used to understand where recombination is most commonly observed in redondovirus genomes. In the lower left is a matrix of breakpoint pairs, essentially revealing that blocks of recombination usually touch the start and end of genes (that is, they rarely occur within genes). On the top right, windows of phylogenetic compatibility across the genomes show the same picture. Lower phylogenetic compatibility is found between genes than within them.
+>Knowledge of recombination patterns may be useful for several questions. Here, RDP4 was used to understand where recombination is most commonly observed in redondovirus genomes. In the lower left is a matrix of recombination breakpoint pairs, essentially revealing that blocks of recombination span from the start to the end of genes (more rarely occurring within genes). On the top right, windows of phylogenetic compatibility across the genomes show the same picture. Lower phylogenetic compatibility (higher Robinson-Foulds distance) is found between genes than within them.
 
 <br/>
 
@@ -78,7 +78,7 @@ subtitle: Examples from prior studies
 
 <br/>
 
-<center> <b> Site-level selection analysis, from <a href="https://www.pnas.org/doi/10.1073/pnas.2303844120">PNAS, 2023</a> </b> </center>
+<center> <b> Site-level selection analysis, adapted from <a href="https://www.pnas.org/doi/10.1073/pnas.2303844120">PNAS, 2023</a> </b> </center>
 
 ![The image shows site-level selection on a virus gene](https://CormacKinsella.github.io/assets/img/data_vis-site_specific_selection.png "Site-level selection analysis")
 
