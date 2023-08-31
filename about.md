@@ -33,7 +33,7 @@ title: About
 
 | Degree | When | Where |
 | :----: | :-: | :-: |
-| PhD in Computational Virology [Marie Skłodowska-Curie HONOURs network](https://www.honours.eu) | 2023 | University of Amsterdam |
+| PhD in Computational Virology ([Marie Skłodowska-Curie HONOURs network](https://www.honours.eu)) | 2023 | University of Amsterdam |
 | Double MSc in Evolutionary Biology ([Erasmus Mundus MEME programme](https://www.evobio.eu)) [*Distinction*] | 2017 | LMU Munich & Uppsala University, with thesis project at Harvard University |
 | BSc in Zoology [*First Class Hons.*] | 2014 | Cardiff University with a professional training year at the University of Bristol |
 
