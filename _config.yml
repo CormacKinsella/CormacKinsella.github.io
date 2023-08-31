@@ -14,9 +14,10 @@ author: Cormac Kinsella
 
 navbar-links:
   Home: "https://cormackinsella.github.io"
-  About: "aboutme"
-  Data Vis: "datavis"
-  Code Resources:
+  About: "about"
+  Data Vis: "data-visualisation"
+  Code:
+    - GitHub Home: "https://github.com/CormacKinsella"
     - Learn Python: "https://github.com/CormacKinsella/python-data-science"
     - Solve virus hosts: "https://github.com/CormacKinsella/Metagenomic-virus-host-prediction"
     - Find virus fossils: "https://github.com/CormacKinsella/HGT_finder"
@@ -27,6 +28,7 @@ navbar-links:
     - Scientific American, 2019: "https://www.scientificamerican.com/article/solving-the-mystery-of-songbird-diversity"
     - New Scientist, 2019: "https://www.newscientist.com/article/2201146-weird-chromosome-may-have-spurred-evolution-of-thousands-of-songbirds"
     - Science Daily, 2019: "https://www.sciencedaily.com/releases/2019/12/191202105552.htm"
+    - UoB press release, 2018: "https://www.bristol.ac.uk/biology/news/2018/mass-extinction.html"
     - Diffusion Magazine: "https://issuu.com/diffusionmagazine"
 
 ################
