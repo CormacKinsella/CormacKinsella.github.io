@@ -10,7 +10,7 @@ title: About
 
 ![Profile image](https://CormacKinsella.github.io/assets/img/about-profile_picture-circle.png "Circos for visualising complex features and multiple alignments")
 
-**Position**: I'm currently a computational biologist carrying out postdoctoral research in genomics at the University of Oxford.
+**Position**: I'm a computational biologist currently carrying out postdoctoral research in genomics at the University of Oxford.
 
 **Research focus**: The quantity of eukaryotic genome assemblies available today (25,000+ on NCBI alone) can give unprecedented insight into biological phenomena at scale. However, we also need tools capable of handling this high volume of data. To accomplish this I design and implement Nextflow software workflows that can properly utilise the machine hardware (e.g., high-performance computing clusters) for highest efficiency and speed. Software also needs to be portable and available to other researchers, hence in addition to coding, we're thinking about software environments, containers, and public code repositories.
 
