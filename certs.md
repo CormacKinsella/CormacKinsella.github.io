@@ -7,4 +7,4 @@ title: Certificates
 
 <br/>
 
-<object data="https://CormacKinsella.github.io/assets/img/Certificate_Dash.pdf" width="1000" height="800" type='application/pdf'></object>
+<object data="https://CormacKinsella.github.io/assets/img/Certificate_Dash.pdf" width="1000" height="820" type='application/pdf'></object>
