@@ -5,6 +5,14 @@ title: Certificates
 
 <br/>
 
+<center> <b> Project Management Simplified (2023-10-03) </b> </center>
+
+<br/>
+
+<object data="https://CormacKinsella.github.io/assets/img/Certificate_Project_Management_Simplified.pdf" width="1000" height="820" type='application/pdf'></object>
+
+<br/>
+
 <center> <b> Machine Learning with Python: Foundations (2023-09-26) </b> </center>
 
 <br/>
